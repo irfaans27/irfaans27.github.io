@@ -151,7 +151,7 @@
   const burst = document.getElementById('burst');
 
   // Growth state for the "Yes" button
-  let scale = 2;
+  let scale = 3;
   const growthFactor = 1.22; // multiplies each click
 
   noBtn.addEventListener('click', () => {
